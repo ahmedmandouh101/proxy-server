@@ -1,0 +1,1 @@
+A proxy server acts as an intermediary between clients and other servers. It forwards requests from clients to the target servers and then forwards the responses from the target servers back to the clients. Proxy servers can be used for various purposes, such as improving performance, enhancing security, or accessing content that is restricted by firewalls or geographic location.
